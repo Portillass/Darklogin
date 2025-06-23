@@ -1,4 +1,4 @@
-
+//importing the CSS styles
 import './App.css'
 
 
